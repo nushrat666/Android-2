@@ -1,2 +1,10 @@
 //1. Introduction//
 1. Welcome To This Course
+2. What We Are Going to Build Videos App With Firebase
+3. What We Are Going to Build Audios in Android
+4. What We Are Going to Build Calling App
+5. What We Are Going to Learn
+
+//2. Kotlin For Android From Zero to Hero//
+1. Install The IDE for Learn Kotlin
+19 sec
